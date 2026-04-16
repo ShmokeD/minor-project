@@ -5,4 +5,6 @@
 	(lib (name "HMC8410LP2FE") (type "KiCad") (uri "${KIPRJMOD}/Components/ul_HMC8410LP2FE/footprints.pretty") (options "") (descr ""))
 	(lib (name "ADL5507") (type "KiCad") (uri "${KIPRJMOD}/Components/ul_ADL5507ACBZ/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "DPX165850DT-8085D3") (type "KiCad") (uri "${KIPRJMOD}/Components/DPX165850DT-8085D3") (options "") (descr ""))
+	(lib (name "NanoV3.3") (type "KiCad") (uri "${KIPRJMOD}/Components/NanoV3.3/NanoV3.3.pretty") (options "") (descr ""))
+	(lib (name "FTDI HEADER") (type "KiCad") (uri "${KIPRJMOD}/Components/FTDI_HEADER") (options "") (descr ""))
 )

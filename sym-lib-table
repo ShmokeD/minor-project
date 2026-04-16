@@ -5,4 +5,5 @@
 	(lib (name "DPX165850DT-8085D3") (type "KiCad") (uri "${KIPRJMOD}/Components/DPX165850DT-8085D3/DPX165850DT-8085D3.kicad_sym") (options "") (descr ""))
 	(lib (name "HMC8410LP2FE") (type "KiCad") (uri "${KIPRJMOD}/Components/ul_HMC8410LP2FE/2026-04-08_05-12-14.kicad_sym") (options "") (descr ""))
 	(lib (name "2026-04-08_05-32-26") (type "KiCad") (uri "${KIPRJMOD}/Components/ul_ADL5507ACBZ/KiCADv6/2026-04-08_05-32-26.kicad_sym") (options "") (descr ""))
+	(lib (name "NanoV3.3") (type "KiCad") (uri "C:/Users/Shmoke/Desktop/Minor Project/Components/NanoV3.3/NanoV3.3.kicad_sym") (options "") (descr ""))
 )
